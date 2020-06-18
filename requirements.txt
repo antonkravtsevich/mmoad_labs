@@ -1,0 +1,7 @@
+pandas
+matplotlib
+numpy
+scipy
+factor_analyzer
+sklearn
+eli5
